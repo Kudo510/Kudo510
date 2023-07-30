@@ -6,7 +6,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kudo510&layout=compact&theme=buefy&langs_count=6&hide_border=true" /></a> 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kudo510&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kudo510&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats&hide=jupyter%20notebook)
 
 
 <!--
