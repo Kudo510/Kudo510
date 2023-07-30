@@ -9,7 +9,8 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kudo510&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats&hide=jupyter%20notebook)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kudo510&layout=compact&theme=vision-friendly-dark&hide=jupyter%20notebook,matlab)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
