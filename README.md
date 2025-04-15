@@ -4,7 +4,7 @@
 
 
 
-I'm currently a Robotics, Cognition, Intelligence MSc student at Technical University Munich. My primary focus centers on the dynamic field of Deep Learning, with a special emphasis on the realms of 2D and 3D Computer Vision.
+I'm a Robotics, Cognition, Intelligence MSc graduate at Technical University Munich. My primary focus centers on the dynamic field of Deep Learning, with a special emphasis on the realms of 2D and 3D Computer Vision.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kudo510&layout=compact&theme=vision-friendly-dark&langs_count=6&hide_border=true&hide=jupyter%20notebook,matlab" />
